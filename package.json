@@ -1,6 +1,6 @@
 {
-  "name": "Landing-page",
-  "version": "1.10.1",
+  "name": "Palamarchuk",
+  "version": "1.1",
   "description": "Landing page",
   "scripts": {
     "start": "node src/server.js"
