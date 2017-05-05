@@ -1,0 +1,23 @@
+{
+  "name": "Landing-page",
+  "version": "1.10.1",
+  "description": "Landing page",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tvolex/Palamarchuk.git"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.2",
+    "express-session": "^1.15.2",
+    "middleware": "^1.0.0",
+    "path": "^0.12.7"
+  },
+  "engines": {
+    "node": "6.5.0",
+    "npm": "3.10.3"
+  }
+}
